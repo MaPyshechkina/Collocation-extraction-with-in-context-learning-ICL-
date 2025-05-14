@@ -27,6 +27,6 @@ Extracting collocations using in-context learning with large language models (e.
 
 ## Установка
 
-```bash
-git clone https://github.com/your-username/collocation-extraction-icl.git
-cd collocation-extraction-icl
+git clone https://github.com/MaPyshechkina/Collocation-extraction-with-in-context-learning-ICL-.git
+cd Collocation-extraction-with-in-context-learning-ICL-
+
