@@ -1,0 +1,3 @@
+pandas
+pyyaml
+yandex-cloud-ml-sdk

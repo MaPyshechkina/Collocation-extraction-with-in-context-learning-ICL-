@@ -1,0 +1,8 @@
+input_file: grams.txt
+output_file: bednost.csv
+folder_id: "your id"
+auth: "your token"
+model: yandexgpt
+temperature: 0.5
+target_word: депозит
+prompt_file: prompt.txt
