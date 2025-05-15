@@ -1,4 +1,4 @@
-# Collocation-extraction-with-LLM-
+# Collocation-extraction-with-LLM
 Extracting collocations using in-context learning with large language models (e.g. YandexGPT)
 
 # Collocation Extraction with LLM
